@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import Profile from '../Profile/Profile.jsx';
 import FriendList from '../FriendList/FriendList.jsx';
 import TransactionHistory from '../TransactionHistory/TransactionHistory.jsx';
